@@ -1,0 +1,18 @@
+<page>
+   <item name="sylvanas/LoadPage.ui" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/Login.ui" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/LoginPage.ui" props="" ifExport="分离模式" aName=""/>
+   <item name="sylvanas/MainPage.ui" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/FightPage.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/GoldTip.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/ReceiveGold.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/Upgrade.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/account.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/Account.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/AccountPage.ui" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/SettingPage.ui" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/FriendsRanking.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/ShopPage.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/AwardPage.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="sylvanas/InsideNoticePage.ui" props="" ifExport="内嵌模式" aName=""/>
+</page>

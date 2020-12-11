@@ -1,0 +1,9 @@
+bin
+.DS_Store
+*actionScriptProperties.lprj
+*abbey.as3proj.lprj
+.idea/
+.settings/
+*.iml
+ENV.as
+debug.txt
